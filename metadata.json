@@ -1,6 +1,6 @@
 {
   "name": "Example Token",
   "symbol": "EXMPL",
-  "description": "TEST GAY TOKEN MADE BY TASI-YI-THAN.",
-  "image": "https://raw.githubusercontent.com/leo1210gg/TSGAY/main/TEST%20GAY%20TOKEN%20PIC.jpg"
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 }
